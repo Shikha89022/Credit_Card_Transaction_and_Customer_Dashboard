@@ -1,5 +1,5 @@
 # Credit Card Financial analysis |Power BI|SQL
-Title: Credit Card Transaction and Customer Weekly report using  Power bi Interactive Dashboard 
+#Title: Credit Card Transaction and Customer Weekly report using  Power bi Interactive Dashboard 
 Dataset: Financial Data set
 Objective: To develop a comprehensive credit card weekly dashboard that provides eal-time insights into key performane metrics to monitor and analyze credit card operations effectively.
 Steps:
